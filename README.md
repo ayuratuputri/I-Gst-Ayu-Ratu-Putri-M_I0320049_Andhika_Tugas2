@@ -1,0 +1,1 @@
+# I-Gst-Ayu-Ratu-Putri-M_I0320049_Andhika_Tugas2
