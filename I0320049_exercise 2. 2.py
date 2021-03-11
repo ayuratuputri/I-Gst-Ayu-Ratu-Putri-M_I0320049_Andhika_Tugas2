@@ -27,3 +27,5 @@ inivariabel222 = "Bye"
 panjang = 10
 lebar = 5
 luas = panjang + lebar
+print(luas)
+15
